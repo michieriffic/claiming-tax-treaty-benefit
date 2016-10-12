@@ -37,10 +37,10 @@ Not all countries are included in this treaty. Please see below if your country 
 
 [//]: # (//Enumerate countries here)
 
-1. [Armenia] ()
-2. [Australia] ()
-3. [Austria] ()
-4. [Azerbaijan] ()
+1. [Armenia] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
+2. [Australia] (https://www.irs.gov/pub/irs-trty/aus.pdf)
+3. [Austria] (https://www.irs.gov/pub/irs-trty/austria.pdf)
+4. [Azerbaijan] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
 5. [Bangladesh] ()
 6. [Barbados] ()
 7. [Belarus] ()
