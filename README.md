@@ -15,7 +15,7 @@ A reduced rate of withholding applies to a foreign person that provides a Form W
 
 Read more about at the [IRS Site](https://www.irs.gov/individuals/international-taxpayers/claiming-tax-treaty-benefits).
 
-##ROYALTIES (General Definition in most tax treaty)
+##ROYALTIES (General definition in most tax treaty)
 
 *Excerpt from China*
 
@@ -28,7 +28,8 @@ This is specifically for answering the W-8BEN Form (Filling US Tax Form) regardi
 
 1. Apple Developer 
 2. Amazon Kindle 
-3. and so on... (Please add relevant companies, just do a pull request to add more...)
+3. Patreon
+4. and so on... (Please add relevant companies, just do a pull request to add more...)
 
 ##NOTE:
 
