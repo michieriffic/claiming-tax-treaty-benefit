@@ -2,6 +2,8 @@
 
 *Updated as of OCTOBER 12, 2016*
 
+##TAX TREATY
+
 If a tax treaty between the United States and your country provides an exemption from, or a reduced rate of, withholding for certain items of income, you should notify the payor of the income (the withholding agent) of your foreign status to claim the benefits of the treaty. **Generally, you do this by filing Form W-8BEN, Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding with the withholding agent.**
 
 A reduced rate of withholding applies to a foreign person that provides a Form W-8BEN claiming a reduced rate of withholding under an income tax treaty only if the foreign person provides a U.S. Taxpayer Identification Number (TIN) (except for certain marketable securities) and certifies that:
@@ -13,7 +15,14 @@ A reduced rate of withholding applies to a foreign person that provides a Form W
 
 Read more about at the [IRS Site](https://www.irs.gov/individuals/international-taxpayers/claiming-tax-treaty-benefits).
 
-###Use Case:
+##ROYALTIES (General Definition in most tax treaty)
+
+*Excerpt from China*
+
+The term "royalties" means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including cinematographic films or films or tapes used for radio or television broadcasting, any patent, technical know-how, trademark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience.
+
+
+##Use Case:
 
 This is specifically for answering the W-8BEN Form (Filling US Tax Form) regarding ROYALTIES for our accounts on 
 
@@ -21,7 +30,7 @@ This is specifically for answering the W-8BEN Form (Filling US Tax Form) regardi
 2. Amazon Kindle 
 3. and so on... (Please add relevant companies, just do a pull request to add more...)
 
-###NOTE:
+##NOTE:
 
 Not all countries are included in this treaty. Please see below if your country is included:
 
@@ -100,6 +109,6 @@ For people who doesn't reside in the US, you don't need an EIN, SSN, or ITIN. No
 
 [//]: # (Provide instructions on how to get one if they want too.)
 
-###DISCLAIMER:
+##DISCLAIMER:
 
 This is not the official way of answering the "Claim US Tax Treaty Benefit" section in the form. This was made to simplify answering that section based on my knowledge and experience. You should still read the agreement between your country and USA. If you are still unsure on how to answer it, ask help from a Tax Accountant. No one will be liable for any issue that arises from using this work (write up, app, etc). Use this at your own risk.
