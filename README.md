@@ -50,11 +50,11 @@ Not all countries are included in this treaty. Please see below if your country 
 11. [China] (https://www.irs.gov/pub/irs-trty/china.pdf)
 12. [Cyprus] (https://www.irs.gov/pub/irs-trty/cyprus.pdf)
 13. [Czech Republic] (https://www.irs.gov/pub/irs-trty/czech.pdf)
-14. [Denmark] ()
-15. [Egypt] ()
-16. [Estonia] ()
-17. [Finland] ()
-18. [France] ()
+14. [Denmark] (https://www.irs.gov/pub/irs-trty/denmark2.pdf)
+15. [Egypt] (https://www.irs.gov/pub/irs-trty/egypt.pdf)
+16. [Estonia] (https://www.irs.gov/pub/irs-trty/estonia.pdf)
+17. [Finland] (https://www.irs.gov/pub/irs-trty/finland.pdf)
+18. [France] (https://www.irs.gov/pub/irs-trty/france.pdf)
 19. [Georgia] ()
 20. [Germany] ()
 21. [Greece] ()
@@ -113,3 +113,7 @@ For people who doesn't reside in the US, you don't need an EIN, SSN, or ITIN. No
 ##DISCLAIMER:
 
 This is not the official way of answering the "Claim US Tax Treaty Benefit" section in the form. This was made to simplify answering that section based on my knowledge and experience. You should still read the agreement between your country and USA. If you are still unsure on how to answer it, ask help from a Tax Accountant. No one will be liable for any issue that arises from using this work (write up, app, etc). Use this at your own risk.
+
+##LICENSE:
+
+[Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)] (https://creativecommons.org/licenses/by-sa/2.5/) by @Michieriffic
