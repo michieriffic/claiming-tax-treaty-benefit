@@ -35,6 +35,8 @@ This is specifically for answering the W-8BEN Form (Filling US Tax Form) regardi
 
 Not all countries are included in this treaty. Please see below if your country is included:
 
+Reference: [US Income Tax Treaties from A to Z](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z)
+
 [//]: # (//Enumerate countries here)
 
 1. [Armenia] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
@@ -55,10 +57,10 @@ Not all countries are included in this treaty. Please see below if your country 
 16. [Estonia] (https://www.irs.gov/pub/irs-trty/estonia.pdf)
 17. [Finland] (https://www.irs.gov/pub/irs-trty/finland.pdf)
 18. [France] (https://www.irs.gov/pub/irs-trty/france.pdf)
-19. [Georgia] ()
-20. [Germany] ()
-21. [Greece] ()
-22. [Hungary] ()
+19. [Georgia] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
+20. [Germany] (https://www.irs.gov/pub/irs-trty/germany.pdf)
+21. [Greece] (https://www.irs.gov/businesses/international-businesses/greece-tax-treaty-documents)
+22. [Hungary] (https://www.irs.gov/pub/irs-trty/hungary.pdf)
 23. [Iceland] ()
 24. [India] ()
 25. [Indonesia] ()

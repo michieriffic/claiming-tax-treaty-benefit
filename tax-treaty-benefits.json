@@ -354,24 +354,56 @@
 	        }
 	    },
 	    "Georgia": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/ussr.pdf",
+	        "royaltyArticleNumber": "3",
+	        "explanation": "",
+        	"content": {
+            	"(1)": {
+                	"main": "The following categories of income derived from sources within one Contracting State by a resident of the other Contracting State shall be subject to tax only in that other Contracting State:",
+                	"(a)": "rentals, royalties, or other amounts paid as consideration for the use of or right to use literary, artistic, and scientific works, or for the use of copyrights of such works, as well as the rights to inventions (patents, author's certificates), industrial designs, processes or formulae, computer programs, trademarks, service marks, and other similar property or rights, or for industrial, commercial, or scientific equipment, or for knowledge, experience, or skill (know- how);",
+                	"(b)": "gains derived from the sale or exchange of any such rights or property, whether or not the amounts realized on sale or exchange are contingent in whole or in part, on the extent and nature of use or disposition of such rights or property;",
+                	"(c)": "gains from the sale or other disposition of property received as a result of inheritance or gift;",
+                	"(d)": "income from the furnishing of engineering, architectural, designing, and other technical services in connection with an installation contract with a resident of the first Contracting State which are carried out in a period not exceeding 36 months at one location;",
+                	"(e)": "income from the sale of goods or the supplying of services through a broker, general commission agent or other agent of independent status, where such broker, general commission agent or other agent is acting in the ordinary course of his business;",
+                	"(f)": "reinsurance premiums; and",
+                	"(g)": "interest on credits, loans and other forms of indebtedness connected with the financing of trade between the USA and the USSR except where received by a resident of the other Contracting State from the conduct of a general banking business in the first Contracting State."
+            	},
+            	"(2)": {
+                	"main": "A Contracting State shall not attribute taxable income to the following activities conducted within that Contracting State by a resident of the other Contracting State:",
+                	"(a)": "the purchase of goods or merchandise;",
+                	"(b)": "the use of facilities for the purpose of storage or delivery of goods or merchandise belonging to the resident of the other Contracting State;",
+                	"(c)": "the display of goods or merchandise belonging to the resident of the other Contracting State, and also the sale of such items on termination of their display;",
+                	"(d)": "advertising by a resident of the other Contracting State, the collection or dissemination of information, or the conducting of scientific research, or similar activities; which have a preparatory or auxiliary character for the resident."
+            	}
 	    },
 	    "Germany": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/germany.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+        	"content": {
+	            "(1)": "Royalties derived and beneficially owned by a resident of a Contracting State shall be taxable only in that State.",
+	            "(2)": "The term “royalties“ as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of a literary, artistic, or scientific work (but not including cinematographic films, or works on film, tape, or other means of reproduction for use in radio or television broadcasting); for the use of, or the right to use, any patent, trademark, design or model, plan, secret formula or process, or other like right or property; or for information concerning industrial, commercial, or scientific experience. The term “royalties“ also includes gains derived from the alienation of any such right or property that are contingent on the productivity, use, or further alienation thereof.",
+	            "(3)": "The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid forms part of the business property of such permanent establishment or fixed base. In such a case the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services), as the case may be, shall apply.",
+	            "(4)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount that would have been agreed upon by the payor and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such a case the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention."
+	        }
 	    },
 	    "Greece": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/businesses/international-businesses/greece-tax-treaty-documents",
+	        "royaltyArticleNumber": "7",
+	        "explanation": "",
+        	"content": {
+        		"main": "Royalties for the right to use copyrights, patents, designs, secret processes and formulae, trade marks and other analogous property, and royalties (including rentals), (other than those in respect of motion picture films) for the use of industrial, commercial or scientific equipment, derived from sources within one of the Contracting States by a resident or corporation of the other Contracting State not engaged in trade or business in the former State through a permanent establishment therein, shall be exempt from tax by the former State."
+        	}
 	    },
 	    "Hungary": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/hungary.pdf",
+	        "royaltyArticleNumber": "11",
+	        "explanation": "",
+        	"content": {
+	            "(1)": "Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State.",
+	            "(2)": "The term \"royalties\" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including cinematographic films or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or other like right or property, or for information concerning industrial, commercial or scientific experience.",
+	            "(3)": "The provisions of paragraph 1 shall not apply if the person deriving the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case the provisions of Article 7 (Business Profits) or Article 13 (Independent Personal Services), as the case may be, shall apply."
+        	}
 	    },
 	    "Iceland": { 
 	        "treatyLink": "",
