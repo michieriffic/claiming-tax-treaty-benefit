@@ -880,24 +880,77 @@
 	        }
 	    },
 	    "Slovak Republic": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/slovak.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties arising in a Contracting State and beneficially owned by a resident of the other Contracting State may be taxed in that other State.",
+	            "(2)": "Royalties described in subparagraph a) of paragraph 3 and beneficially owned by a resident of a Contracting State may be taxed only in that State. Royalties described in subparagraph b) of paragraph 3 may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner is a resident of the other Contracting State, the tax so charged shall not exceed 10 percent of the gross amount of the royalties.",
+	            "(3)": {
+	                "main": "The term \"royalties\" as used in this Convention means payments of any kind received as a consideration for the use of, or the right to use:",
+	                "(a)": "any copyright of literary, artistic or scientific work, including cinematographic films or films or tapes and other means of image or sound reproduction;",
+	                "(b)": "any patent, trademark, design or model, plan, secret formula or process, or other like right or property, or for industrial, commercial, or scientific equipment, or for information concerning industrial, commercial, or scientific experience.",
+	                "end": "The term \"royalties\" also includes payments derived from the disposition of any such right or property which are contingent on the productivity, use or further disposition thereof."
+            	},	
+	            "(4)": "The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on or has carried on business in the other Contracting State, in which the royalties arise, through a permanent establishment situated therein, or performs or has performed in that other State independent personal services from a fixed base situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services), as the case may be, shall apply.",
+	            "(5)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of the Convention.",
+	            "(6)": {
+                	"main": "For purposes of this Article:",
+                	"(a)": "Royalties shall be treated as arising in a Contracting State when the payer is that State itself or a political subdivision or local authority of that State or a person who is a resident of that State for purposes of its tax. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in a Contracting State a permanent establishment or fixed base in connection with which the liability to pay the royalties was incurred, and the royalties are borne by the permanent establishment or fixed base, then the royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.",
+                	"(b)": "Where subparagraph a) does not operate to treat royalties as arising in a Contracting State, royalties paid for the use of, or the right to use, in a Contracting State any property or right described in paragraph 3 shall be treated as arising in that State."
+            	}
+	        }
 	    },
 	    "Slovenia": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/slovenia.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.",
+	            "(2)": "However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 5 percent of the gross amount of the royalties.",
+	            "(3)": {
+	                "main": "The term \"royalties\" as used in this Convention means:",
+    	            "(a)": "any consideration for the use of, or the right to use, any copyright of literary, artistic, scientific or other work (including computer software, cinematographic films, audio or video tapes or disks, and other means of image or sound reproduction), any patent, trademark, design or model, plan, secret formula or process, or other like right or property, or for information concerning industrial, commercial, or scientific experience; and",
+       	        	"(b)": "gain derived from the alienation of any property described in subparagraph a), provided that such gain is contingent on the productivity, use, or disposition of the property."
+            	},
+	            "(4)": "The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services), as the case may be, shall apply.",
+	            "(5)": "Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political or administrative subdivision, a local authority, or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated. Notwithstanding the preceding provisions of this paragraph, royalties with respect to the use of, or the right to use, rights or property within a Contracting State may be deemed to arise within that State.",
+	            "(6)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of the Convention.",
+	            "(7)": "The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the rights in respect of which the royalties are paid to take advantage of this Article by means of that creation or assignment."
+	        }
 	    },
 	    "South Africa": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/safrica.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties derived and beneficially owned by a resident of a Contracting State shall be taxable only in that State.",
+	            "(2)": {
+	                "main": "The term \"royalties\" as used in this Convention means:",
+	                "(a)": "any consideration for the use of, or the right to use, any copyright of literary, artistic, scientific or other work (including computer software, cinematographic films, audio or video tapes or disks, and other means of image or sound reproduction), any patent, trademark, design or model, plan, secret formula or process, or other like right or property, or for information concerning industrial, commercial, or scientific experience; and",
+	                "(b)": "gain derived from the alienation of any property described in subparagraph (a), provided that such gain is contingent on the productivity, use, or disposition of the property."
+	            },
+	            "(3)": "The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State, in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case, the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services), as the case may be, shall apply.",
+	            "(4)": "Where, by reason of a special relationship between the payor and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payor and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention."
+	        }
 	    },
 	    "Spain": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/spain.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties arising in a Contracting State and derived by a resident of the other Contacting State may be taxed in that other State.",
+	            "(2)": {
+                	"main": "However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner is a resident of the other Contracting State, the tax so charged shall not exceed:",
+                	"(a)": "5 percent of the gross amount of royalties for the use of, or the right to use, any copyrights of literary, dramatic, musical, or artistic work;",
+                	"(b)": "8 percent of the gross amount of royalties received in consideration for the use of, or the right to use, cinematographic films, or films, tapes, and other means of transmission or reproduction of image or sound, and of the gross amount of royalties for the use of, or the right to use, industrial, commercial, or scientific equipment, and for any copyright of scientific work; and",
+                	"(c)": "10 percent of the gross amount of all other royalties. Notwithstanding other provisions of this paragraph, royalties received as a consideration for technical assistance shall be taxable at the rate applying to the royalties stipulated in respect of the rights or property to which the technical assistance is related. To this effect, the taxable base shall be computed net of labor and of material costs incurred in producing such royalties."
+            	},
+	            "(3)": "The term \"royalties\" as used in this Convention means payments of any kind received in consideration for the use of, or the right to use, any copyright of literary, dramatic, musical, artistic, or scientific work, including cinematographic films or films, tapes, and other means or image or sound reproduction, any patent, trademark, design or model, plan, secret formula or process, or other like right or property, or for the use of or the right to use industrial, commercial, or scientific equipment, or for information concerning industrial, commercial, or scientific experience. It also includes payments for technical assistance performed in a Contracting State by a resident of the other State where such assistance is related to the application of any such right or property. The term "royalties" also includes gains derived from the alienation of such right or property to the extent that such gains are contingent on the productivity, use, or disposition thereof.",
+	            "(4)": "The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on or has carried on business in the other Contracting State, in which the royalties arise, through a permanent establishment situated therein, or performs or has performed in that other State independent personal services from a fixed base situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case the provisions of Article 7 (Business Profits) or Article 15 (Independent Personal Services), as the case may be, shall apply.",
+	            "(5)": "For purposes of this Article, royalties shall be deemed to arise in a Contracting State when the payer is that State itself or a political subdivision or local authority of that State or a person who is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in one of the Contracting States a permanent establishment or fixed base in connection with which the liability to pay the royalties was incurred, and the royalties are borne by the permanent establishment or fixed base, then the royalties shall be deemed to have their source in the State in which the permanent establishment or fixed base is situated. Where the person paying the royalties is not a resident of either Contracting State, and the royalties are not borne by a permanent establishment or fixed base in either Contracting State, but the royalties relate to the use of, or the right to use, in one of the Contracting States, any property or right described in paragraph 3, the royalties shall be treated as income from sources in that State.",
+	            "(6)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of the Convention."
+	        }
 	    },
 	    "Sri Lanka": { 
 	        "treatyLink": "",
@@ -905,14 +958,26 @@
 	        "content": ""
 	    },
 	    "Sweden": { 
-	        "treatyLink": "",
-	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/sweden.pdf",
+	        "royaltyArticleNumber": "12",
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties arising in a Contracting State which are derived and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.",
+	            "(2)": "The term ”royalties” as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including motion pictures and works on film, tape or other means of reproduction used for radio or television broadcasting), any patent, trade mark, design or model, plan, secret formula or process, or other like right or property, or for information concerning industrial, commercial or scientific experience. The term "royalties" also includes gains derived from the alienation of any such right or property which are contingent on the productivity, use, or disposition thereof.",
+	            "(3)": "The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a carries on business in the other Contracting State, in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services), as the case may be, shall apply.",
+	            "(4)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention."	        
+	        }
 	    },
 	    "Switzerland": { 
-	        "treatyLink": "",
+	        "treatyLink": "https://www.irs.gov/pub/irs-trty/swiss.pdf",
 	        "royaltyArticleNumber": "",
-	        "content": ""
+	        "explanation": "",
+	        "content": {
+	            "(1)": "Royalties derived and beneficially owned by a resident of a Contracting State shall be taxable only in that State.",
+	            "(2)": "The term “royalties” as used in this Convention means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic, or scientific work (but not including motion pictures, or films, tapes or other means of reproduction for use in radio or television broadcasting), any patent, trademark, design or model, plan, secret formula or process, or other like right or property, or for information concerning industrial, commercial, or scientific experience. The term “royalties” also includes gains derived from the alienation of any such right or property which are contingent on the productivity, use, or disposition thereof.",
+	            "(3)": "The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the royalties are attributable to such permanent establishment or fixed base. In such case the provisions of Article 7 (Business Profits) or Article 14 (Independent Personal Services) shall apply.",
+	            "(4)": "Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the person deriving the royalties in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the law of each Contracting State, due regard being had to the other provisions of this Convention."
+	        }
 	    },
 	    "Tajikistan": { 
 	        "treatyLink": "",
