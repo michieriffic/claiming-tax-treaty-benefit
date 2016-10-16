@@ -101,12 +101,12 @@ Reference: [US Income Tax Treaties from A to Z](https://www.irs.gov/businesses/i
 60. [Tunisia] (https://www.irs.gov/pub/irs-trty/tunisia.pdf)
 61. [Turkey] (https://www.irs.gov/pub/irs-trty/turkey.pdf)
 62. [Turkmenistan] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
-63. [Ukraine] ()
-64. [Union of Soviet Socialist Republics (USSR)] ()
-65. [United Kingdom] ()
-66. [United States Model] ()
-67. [Uzbekistan] ()
-68. [Venezuela] ()
+63. [Ukraine] (https://www.irs.gov/pub/irs-trty/ukrain.pdf)
+64. [Union of Soviet Socialist Republics (USSR)] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
+65. [United Kingdom] (https://www.treasury.gov/resource-center/tax-policy/treaties/Documents/uktreaty.pdf)
+66. [United States Model] (https://www.irs.gov/pub/irs-trty/model006.pdf)
+67. [Uzbekistan] (https://www.irs.gov/pub/irs-trty/ussr.pdf)
+68. [Venezuela] (https://www.irs.gov/pub/irs-trty/venezu.pdf)
 
 For people who doesn't reside in the US, you don't need an EIN, SSN, or ITIN. Now, you can use your own country's tax ID number.
 
